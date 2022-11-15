@@ -1,0 +1,6 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+# BookSearch tabina tıklanır
+* "2" saniye kadar bekle
+* "(//*[@resource-id='com.m.qr:id/navigation_bar_item_icon_view'])[2]" xpath'li elemente tıkla

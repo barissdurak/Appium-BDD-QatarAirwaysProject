@@ -1,0 +1,6 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+# Uygulamanin acildigi kontrol edilir
+* "2" saniye kadar bekle
+* "//*[@resource-id='com.m.qr:id/rvmp_home_inspiration_title']" li element "Travel Inspiration" degerini iceriyor mu kontrol et

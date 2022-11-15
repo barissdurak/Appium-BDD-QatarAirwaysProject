@@ -1,0 +1,11 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+# Ucagin inis yapacagi havaalani secilir
+* "2" saniye kadar bekle
+* "com.m.qr:id/rvmp_fragment_rtow_flight_selection_destination_select_destination_text_view" li elemente tıkla
+* "2" saniye kadar bekle
+* "com.m.qr:id/rvmp_fragment_ond_selection_filter_edittext" li elementi bul ve "paris" degerini yaz
+* "2" saniye kadar bekle
+* "(//*[@resource-id='com.m.qr:id/rvmp_item_ond_selection_list_text_view_holder'])[1]" xpath'li elemente tıkla
+* "5" saniye kadar bekle

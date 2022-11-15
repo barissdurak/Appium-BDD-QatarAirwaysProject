@@ -1,0 +1,8 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+# Ekonomi clasında ucus yapilmasi secilir
+* "2" saniye kadar bekle
+* "com.m.qr:id/fragment_rtow_flight_cabin_class_text_view" li elemente tıkla
+* "2" saniye kadar bekle
+* "//*[@text='Economy']" xpath'li elemente tıkla

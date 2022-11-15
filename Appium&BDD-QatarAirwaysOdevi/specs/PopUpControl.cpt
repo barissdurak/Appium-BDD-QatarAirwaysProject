@@ -1,0 +1,23 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+
+Skipleri gec
+"2" saniye kadar bekle
+"com.m.qr:id/skip_button" li elemente tıkla
+
+# Eger varsa sayfa acilirken gelen Pop-upları gecer
+* "3" saniye kadar bekle
+* "com.android.permissioncontroller:id/permission_deny_button" li elemente tıkla
+* "3" saniye kadar bekle
+* "com.m.qr:id/skip_button" li elemente tıkla
+* "3" saniye kadar bekle
+* "com.m.qr:id/onboarding_skip_button" li elemente tıkla
+* "3" saniye kadar bekle
+* "com.m.qr:id/push_consent_decline" li elemente tıkla
+* "3" saniye kadar bekle
+* "com.m.qr:id/secondary_button" li elemente tıkla
+* "3" saniye kadar bekle
+
+
+

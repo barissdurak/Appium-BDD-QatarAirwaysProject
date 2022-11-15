@@ -1,0 +1,9 @@
+Created by testinium on 15.11.2022
+
+This is a concept file with following syntax for each concept.
+# Rastgele bir ucus secilir
+* "2" saniye kadar bekle
+* "(//*[@resource-id='com.m.qr:id/rvmp_item_search_result_root_view'])[1]" xpath'li elemente tıkla
+* "5" saniye kadar bekle
+* "com.m.qr:id/rvmp_activity_flight_details_select_button" li elemente tıkla
+* "5" saniye kadar bekle

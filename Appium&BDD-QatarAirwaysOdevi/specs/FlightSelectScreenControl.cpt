@@ -1,0 +1,6 @@
+Created by testinium on 15.11.2022
+
+This is a concept file with following syntax for each concept.
+# Ucus ekraninin acildigi kontrol edilir
+* "2" saniye kadar bekle
+* ucus secim ekrani icin "com.m.qr:id/booking_activity_conversational_message" li element "Select your departure" degerini iceriyor mu kontrol et

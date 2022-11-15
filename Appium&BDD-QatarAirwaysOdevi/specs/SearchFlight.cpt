@@ -1,0 +1,8 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+
+# Mevcut seçimlere uygun ucuslar var mı diye aranir
+* "2" saniye kadar bekle
+* "com.m.qr:id/rvmp_booking_search_flights_button" li elemente tıkla
+* "2" saniye kadar bekle

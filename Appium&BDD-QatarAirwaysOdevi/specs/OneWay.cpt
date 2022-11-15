@@ -1,0 +1,15 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+
+# Tek yon ucus sekmesi secilir
+* "2" saniye kadar bekle
+* "//*[@text='One-way']" xpath'li elemente tıkla
+
+
+
+
+
+
+
+

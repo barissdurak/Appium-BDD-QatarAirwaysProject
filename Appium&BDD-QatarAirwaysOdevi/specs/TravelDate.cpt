@@ -1,0 +1,10 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+# Ucus tarihi belirlenir
+* "2" saniye kadar bekle
+* "com.m.qr:id/rvmp_fragment_rtow_flight_selection_departure_date_holder" li elemente tıkla
+* "2" saniye kadar bekle
+* "//*[@text='29']" xpath'li elemente tıkla
+* "2" saniye kadar bekle
+* "com.m.qr:id/fragment_calendar_confirm_button" li elemente tıkla
